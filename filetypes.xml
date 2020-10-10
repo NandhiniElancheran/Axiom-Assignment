@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="NativeCommonActions.java" type="PLAIN_TEXT" />
+      <mapping pattern="Configuration" type="Properties" />
+      <mapping pattern="Executionconfig" type="Properties" />
+    </extensionMap>
+  </component>
+</application>
